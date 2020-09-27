@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=PaperTown
+Description=A plymouth theme for PaperTown
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/paper-town
+ScriptFile=/usr/share/plymouth/themes/paper-town/paper-town.script
